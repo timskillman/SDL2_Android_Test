@@ -9,3 +9,6 @@ This is trivial on a PC but there seems to be limitations with the z-buffer on A
 If anyone knows of a fix for this z-buffer issue, then you'll make me a happy developer!
 
 This demo should load into Visual Studio 2015 and compile an APK for Android.
+
+
+Go to main.cpp in the main folder
